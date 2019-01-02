@@ -1,4 +1,4 @@
-// Binary search
+// Binary search (Recursive)
 
 fn search(numbers: &[i32], left: usize, right: usize, find: i32) -> i32 {
     if right >= left {
