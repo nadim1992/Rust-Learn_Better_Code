@@ -4,3 +4,7 @@ Algorithms and Data structures with Rust
 ## Algorithms
 > Linear search
 > Binary search
+
+
+## Data structures
+> Array rotation
